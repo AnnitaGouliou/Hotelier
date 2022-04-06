@@ -1317,3 +1317,784 @@ System memory in use after: 183.5 MB.
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2666.
 Total: 2.997859 ms (FindLiveObjects: 0.299415 ms CreateObjectMapping: 0.129386 ms MarkObjects: 2.286910 ms  DeleteObjects: 0.281006 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002890 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.601 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 207.1 MB.
+System memory in use after: 207.2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 2.765918 ms (FindLiveObjects: 0.278691 ms CreateObjectMapping: 0.155490 ms MarkObjects: 2.227123 ms  DeleteObjects: 0.103506 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 73933.845438 seconds.
+  path: Assets/AdventureCreator/Graphics
+  artifactKey: Guid(28f5ef5f33f424d9581b387664a8b640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics using Guid(28f5ef5f33f424d9581b387664a8b640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1920df47d94ce7e378aaf5ddc9522254') in 0.005879 seconds
+  Import took 0.010788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.424418 seconds.
+  path: Assets/AdventureCreator/Graphics/Fonts
+  artifactKey: Guid(97dd9da9a784346afa8ef4ac1f37583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Fonts using Guid(97dd9da9a784346afa8ef4ac1f37583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab63fa7a38479988aaa9b286f9c2c432') in 0.002517 seconds
+  Import took 0.007226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/AdventureCreator/Graphics/Fonts
+  artifactKey: Guid(97dd9da9a784346afa8ef4ac1f37583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Fonts using Guid(97dd9da9a784346afa8ef4ac1f37583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab63fa7a38479988aaa9b286f9c2c432') in 0.000795 seconds
+  Import took 0.006415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092778 seconds.
+  path: Assets/AdventureCreator/Graphics/Fonts/BradBunR.ttf
+  artifactKey: Guid(86c95e24cad1f457193772d2521f9ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Fonts/BradBunR.ttf using Guid(86c95e24cad1f457193772d2521f9ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efb6e36abeff9e347a78cc7cd0a4ea4') in 0.362209 seconds
+  Import took 0.366462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/AdventureCreator/Graphics/Fonts/Chunkfive.otf
+  artifactKey: Guid(c6e3b07edbe7e4f62837dde56356b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Fonts/Chunkfive.otf using Guid(c6e3b07edbe7e4f62837dde56356b819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e2d0c2611f525a477dd5f03669cb18') in 0.073302 seconds
+  Import took 0.077428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.931549 seconds.
+  path: Assets/AdventureCreator/Graphics/Skins
+  artifactKey: Guid(e6588dec1b98c4aa18db12d82ea9b9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Skins using Guid(e6588dec1b98c4aa18db12d82ea9b9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3afcdc6a36dec964d26289934cbe687') in 0.002701 seconds
+  Import took 0.007465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089155 seconds.
+  path: Assets/AdventureCreator/Graphics/Skins/ACEmptyNodeSkin.guiskin
+  artifactKey: Guid(6fbae873976a24cf89c0ee394be0a075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Skins/ACEmptyNodeSkin.guiskin using Guid(6fbae873976a24cf89c0ee394be0a075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68bff116df268c6acf3d19a1d80038a') in 0.069753 seconds
+  Import took 0.073996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/AdventureCreator/Graphics/Skins/ACNodeSkin.guiskin
+  artifactKey: Guid(d65cf1d07f505414e95efaa84996cfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Skins/ACNodeSkin.guiskin using Guid(d65cf1d07f505414e95efaa84996cfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f54ba4f40ed978a4f9d9926b4d52f2') in 0.004245 seconds
+  Import took 0.008953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.665079 seconds.
+  path: Assets/AdventureCreator/Graphics/Models
+  artifactKey: Guid(c671c5d5496c44df49989127731617b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Models using Guid(c671c5d5496c44df49989127731617b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789029e77d2ef2822d3582899e9c113b') in 0.002670 seconds
+  Import took 0.007470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000689 seconds.
+  path: Assets/AdventureCreator/Graphics/Models
+  artifactKey: Guid(c671c5d5496c44df49989127731617b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Models using Guid(c671c5d5496c44df49989127731617b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789029e77d2ef2822d3582899e9c113b') in 0.000847 seconds
+  Import took 0.005172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075570 seconds.
+  path: Assets/AdventureCreator/Graphics/Models/ClickMarker.fbx
+  artifactKey: Guid(204880bd9931541f58487efe77e1eb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Models/ClickMarker.fbx using Guid(204880bd9931541f58487efe77e1eb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5d15073042f53b502c97a4f1163cca') in 0.347932 seconds
+  Import took 0.352212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/AdventureCreator/Graphics/Models/PlayerStart.fbx
+  artifactKey: Guid(34661294d34434c2d96b8bca565e8010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Models/PlayerStart.fbx using Guid(34661294d34434c2d96b8bca565e8010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ec183ed0b83caa53c263af43dc4e33') in 0.012569 seconds
+  Import took 0.016993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/AdventureCreator/Graphics/Models/TintMap.fbx
+  artifactKey: Guid(f5ce8002b793946f097defc08a06c2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Models/TintMap.fbx using Guid(f5ce8002b793946f097defc08a06c2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a89a755ad2a46fcd1d43682184fb2e6b') in 0.021882 seconds
+  Import took 0.026164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.712772 seconds.
+  path: Assets/AdventureCreator/Scripts
+  artifactKey: Guid(034441957d431409e8ab2d8ede783d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Scripts using Guid(034441957d431409e8ab2d8ede783d74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce302a717fa174e797d8143579e5184') in 0.002710 seconds
+  Import took 0.007659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.077590 seconds.
+  path: Assets/AdventureCreator/Scripts/Animation
+  artifactKey: Guid(3fb7d1e2562484d9ea1cad85898f98d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Scripts/Animation using Guid(3fb7d1e2562484d9ea1cad85898f98d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cc4b5cda8e6a98d3dffa62fe3624ac') in 0.002703 seconds
+  Import took 0.007932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.696921 seconds.
+  path: Assets/AdventureCreator/Editor/ACEditorPrefs.asset
+  artifactKey: Guid(811639e6c15c3401db79fdd763fdee88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Editor/ACEditorPrefs.asset using Guid(811639e6c15c3401db79fdd763fdee88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9aed21fcf55302ef7bc0143e9b1edd3') in 0.026852 seconds
+  Import took 0.031526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 978.970378 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/pointer.png
+  artifactKey: Guid(5c83780962ed843c0928648679746938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/pointer.png using Guid(5c83780962ed843c0928648679746938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7217b359737e511de85883041e0e2373') in 0.006889 seconds
+  Import took 0.011500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/icon-look.png
+  artifactKey: Guid(e0394f989f329496584e377a81d4031f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/icon-look.png using Guid(e0394f989f329496584e377a81d4031f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac81d976c08562f01ac6c8340d9cc98') in 0.004856 seconds
+  Import took 0.010268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/icon-talk.png
+  artifactKey: Guid(f03835de3da7f442f92582f0dd5e5863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/icon-talk.png using Guid(f03835de3da7f442f92582f0dd5e5863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93539b1f86112b81bbf89a443ad09a8e') in 0.006107 seconds
+  Import took 0.011004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001317 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/icon-use.png
+  artifactKey: Guid(fca3605bfa5c847a19ca115a1c925bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/icon-use.png using Guid(fca3605bfa5c847a19ca115a1c925bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3fa80613720312222725d9a5d3e7e8') in 0.005201 seconds
+  Import took 0.010751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 169.517130 seconds.
+  path: Assets/Hotelier/Managers/ActionsManager 1.asset
+  artifactKey: Guid(b423045141d3042e2b49e49a6ae06c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/ActionsManager 1.asset using Guid(b423045141d3042e2b49e49a6ae06c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '233c9c1573e1760c1eb22c9eae86eaad') in 0.004201 seconds
+  Import took 0.009352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Hotelier/Managers/InventoryManager 1.asset
+  artifactKey: Guid(4a3c161566f93455c9b3315793d0dba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/InventoryManager 1.asset using Guid(4a3c161566f93455c9b3315793d0dba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbdb6560e873c48a5f72c579fa0a2346') in 0.016270 seconds
+  Import took 0.021115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Hotelier/Managers/SpeechManager.asset
+  artifactKey: Guid(53daeda6537aa4805bd72f7e20ffce9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/SpeechManager.asset using Guid(53daeda6537aa4805bd72f7e20ffce9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1d35a40dfb35362220e4322571356d') in 0.006545 seconds
+  Import took 0.011261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Hotelier/Managers/SceneManager 1.asset
+  artifactKey: Guid(fdedb2991e2d645af83e4be7074c8e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/SceneManager 1.asset using Guid(fdedb2991e2d645af83e4be7074c8e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9588a46190206bd986593e27d0036099') in 0.002869 seconds
+  Import took 0.007927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Hotelier/Managers/SettingsManager.asset
+  artifactKey: Guid(325db2902c0284d0abc837b22ef74057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/SettingsManager.asset using Guid(325db2902c0284d0abc837b22ef74057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94cf59755293ec90f0735750b542b43d') in 0.008777 seconds
+  Import took 0.013669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Hotelier/Managers/InventoryManager.asset
+  artifactKey: Guid(8f34d6ba0909b4ff195e19d7797b7881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/InventoryManager.asset using Guid(8f34d6ba0909b4ff195e19d7797b7881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9d78c9cc5788b5e831e28d869a4f93') in 0.002044 seconds
+  Import took 0.006969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Hotelier/Managers/VariablesManager.asset
+  artifactKey: Guid(9f4e5f875228240be9bd282d0e7e3a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/VariablesManager.asset using Guid(9f4e5f875228240be9bd282d0e7e3a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed43044bdd1ea47d97fc22e68f20ee8') in 0.005465 seconds
+  Import took 0.009831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Hotelier/Managers/MenuManager 1.asset
+  artifactKey: Guid(9d2b7e42a0d2e4a2f80388ff5d9b310a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/MenuManager 1.asset using Guid(9d2b7e42a0d2e4a2f80388ff5d9b310a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff13ff50af263565e4c3514d47fd0786') in 0.114722 seconds
+  Import took 0.122230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Hotelier/Managers/ActionsManager.asset
+  artifactKey: Guid(5f899a759c75b4460a3106eef059dabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/ActionsManager.asset using Guid(5f899a759c75b4460a3106eef059dabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24598730b787f0150df07ffc4032b211') in 0.002636 seconds
+  Import took 0.006847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_ActionsManager.asset
+  artifactKey: Guid(eee32f9cf6d58459485a314ce54ed16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_ActionsManager.asset using Guid(eee32f9cf6d58459485a314ce54ed16b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855d0e83ce173aed892042864c9bafd5') in 0.001815 seconds
+  Import took 0.005660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Hotelier/Managers/VariablesManager 1.asset
+  artifactKey: Guid(78e4ea0ae930c4300ab488664c1164d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/VariablesManager 1.asset using Guid(78e4ea0ae930c4300ab488664c1164d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c915ea9d1e646617962980ab047e6ea2') in 0.002361 seconds
+  Import took 0.007269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_SettingsManager.asset
+  artifactKey: Guid(48ae456221a704312a955d4cb2600afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_SettingsManager.asset using Guid(48ae456221a704312a955d4cb2600afa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e06b48fb0b8ade95de53eb70ee179d4') in 0.002297 seconds
+  Import took 0.007281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Hotelier/Managers/CursorManager 1.asset
+  artifactKey: Guid(429247b4b5e8040e1be10bd9574e35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/CursorManager 1.asset using Guid(429247b4b5e8040e1be10bd9574e35ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6472664c8ef27d3b3bb0d126471f38c7') in 0.010038 seconds
+  Import took 0.014968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_InventoryManager.asset
+  artifactKey: Guid(9dedc24a752c34283a70aa0225ac665b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_InventoryManager.asset using Guid(9dedc24a752c34283a70aa0225ac665b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13199400aeea91a52123e7864a309c2') in 0.001794 seconds
+  Import took 0.005517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Hotelier/Managers/SceneManager.asset
+  artifactKey: Guid(1752dcb31247844e386ce519f549a948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/SceneManager.asset using Guid(1752dcb31247844e386ce519f549a948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f9611c84abce1814fe7fd663ad9edc') in 0.002125 seconds
+  Import took 0.006773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_CursorManager.asset
+  artifactKey: Guid(a80af8d53f1274e43b315621eecfef3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_CursorManager.asset using Guid(a80af8d53f1274e43b315621eecfef3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619ef58f7e960690c1fbdc3ff245c619') in 0.002671 seconds
+  Import took 0.007720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Hotelier/Managers/CursorManager.asset
+  artifactKey: Guid(6ba0f4b622b3946a59e6869e5887d28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/CursorManager.asset using Guid(6ba0f4b622b3946a59e6869e5887d28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748ba1cb506a93b092f51d23c095db19') in 0.002759 seconds
+  Import took 0.007470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Hotelier/Managers/SettingsManager 1.asset
+  artifactKey: Guid(398d51b44eba84cb7b56f2c0a13df8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/SettingsManager 1.asset using Guid(398d51b44eba84cb7b56f2c0a13df8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10144eaf5ff763ec8f1d02e7c82476d8') in 0.002052 seconds
+  Import took 0.006665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Hotelier/Managers/SpeechManager 1.asset
+  artifactKey: Guid(158398b1537d942309f64284d69b6f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/SpeechManager 1.asset using Guid(158398b1537d942309f64284d69b6f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91e0d6c59b535f31cc9c6bf306cc600') in 0.001954 seconds
+  Import took 0.006602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_VariablesManager.asset
+  artifactKey: Guid(ce8ba304e994a4820a498408f55ba8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_VariablesManager.asset using Guid(ce8ba304e994a4820a498408f55ba8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1068ead30d404381ff7e79387cff4faf') in 0.001942 seconds
+  Import took 0.006541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_MenuManager.asset
+  artifactKey: Guid(f941bf4a42d534551919daca2bdb6c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_MenuManager.asset using Guid(f941bf4a42d534551919daca2bdb6c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49b871e45b897a3cceb233831151f85') in 0.017850 seconds
+  Import took 0.023115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_SceneManager.asset
+  artifactKey: Guid(b0c1f55e9d937480cb99308425d01472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_SceneManager.asset using Guid(b0c1f55e9d937480cb99308425d01472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4c915c15b59df4912aa66447605e37') in 0.002215 seconds
+  Import took 0.007015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_SpeechManager.asset
+  artifactKey: Guid(48ba8ad37f26740969104a73dc510548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_SpeechManager.asset using Guid(48ba8ad37f26740969104a73dc510548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb93224fdbac4e79a715040360c4d000') in 0.002036 seconds
+  Import took 0.006541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Hotelier/Managers/Hotelier_SceneManager.asset
+  artifactKey: Guid(b0c1f55e9d937480cb99308425d01472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/Hotelier_SceneManager.asset using Guid(b0c1f55e9d937480cb99308425d01472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4c915c15b59df4912aa66447605e37') in 0.001914 seconds
+  Import took 0.006961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Hotelier/Managers/MenuManager.asset
+  artifactKey: Guid(64521189c5c5245098e0be5f72013f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Managers/MenuManager.asset using Guid(64521189c5c5245098e0be5f72013f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022c4fa75815d102c5761bb94d91d410') in 0.019751 seconds
+  Import took 0.025063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.057274 seconds.
+  path: Assets/Hotelier/UI/ContainerUI.prefab
+  artifactKey: Guid(6c25949295dad46e1b75fe01fa9f2995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/ContainerUI.prefab using Guid(6c25949295dad46e1b75fe01fa9f2995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4097a435d33f519dcb82064f5d2cd7b1') in 0.028680 seconds
+  Import took 0.033692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Hotelier/UI/ConversationUI.prefab
+  artifactKey: Guid(1dff1fcad187e454ba9466dafa3cae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/ConversationUI.prefab using Guid(1dff1fcad187e454ba9466dafa3cae72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47061240afaea15fc402e6120a3114c0') in 0.004917 seconds
+  Import took 0.009162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Hotelier/UI/InteractionUI.prefab
+  artifactKey: Guid(06ff08eb3773641e4a4970a98637eb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/InteractionUI.prefab using Guid(06ff08eb3773641e4a4970a98637eb2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3ba68c312d7d5a6b63278cc2af400c') in 0.004450 seconds
+  Import took 0.009273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Hotelier/UI/OptionsUI.prefab
+  artifactKey: Guid(283c6b60735634990a4eb826a6b3f2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/OptionsUI.prefab using Guid(283c6b60735634990a4eb826a6b3f2ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c22b69f854b644a4656717b9868aec') in 0.005344 seconds
+  Import took 0.010069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Hotelier/UI/SubtitlesUI.prefab
+  artifactKey: Guid(5673f867c06e449ea8743bd372d35dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/SubtitlesUI.prefab using Guid(5673f867c06e449ea8743bd372d35dc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8f981468589cd54c33a847d0226ff9') in 0.003749 seconds
+  Import took 0.008540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Hotelier/UI/SaveUI.prefab
+  artifactKey: Guid(4123478d839b4443cb844a0c7ed32ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/SaveUI.prefab using Guid(4123478d839b4443cb844a0c7ed32ac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84eb5ebbaab7b338a432e0595fb26ab') in 0.004686 seconds
+  Import took 0.009182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Hotelier/UI/HotspotUI.prefab
+  artifactKey: Guid(17184bbf9a1bb4e36a2069cfd9d6404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/HotspotUI.prefab using Guid(17184bbf9a1bb4e36a2069cfd9d6404e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd3fba635c285644386259e2ea82d38') in 0.004310 seconds
+  Import took 0.009359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Hotelier/UI/DocumentUI.prefab
+  artifactKey: Guid(5d8683520eb2c492192d04605f904114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/DocumentUI.prefab using Guid(5d8683520eb2c492192d04605f904114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8897a6818f062100b15bbf06f803d581') in 0.004826 seconds
+  Import took 0.009490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Hotelier/UI/InGameUI.prefab
+  artifactKey: Guid(4f66a1054a4634b4ca9adf8d4990edb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/InGameUI.prefab using Guid(4f66a1054a4634b4ca9adf8d4990edb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be59173ba7732b8d314d8eff847cc1ee') in 0.004150 seconds
+  Import took 0.008784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Hotelier/UI/CursorUI.prefab
+  artifactKey: Guid(bcd0b13e1993d483f86f3a403644a4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/CursorUI.prefab using Guid(bcd0b13e1993d483f86f3a403644a4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a220bb80edf43fefc01f906694d5fab') in 0.003118 seconds
+  Import took 0.007769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Hotelier/UI/LoadUI.prefab
+  artifactKey: Guid(f8973777f9b774a5781b89704045fe14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/LoadUI.prefab using Guid(f8973777f9b774a5781b89704045fe14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e538cbd5d360c82dcd23bdfca862bc') in 0.005433 seconds
+  Import took 0.010252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Hotelier/UI/ProfilesUI.prefab
+  artifactKey: Guid(f1612403dcc204750ba6a56057928d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/ProfilesUI.prefab using Guid(f1612403dcc204750ba6a56057928d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3dcfb871a0bc11a2087e0224454da8') in 0.006243 seconds
+  Import took 0.010843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Hotelier/UI/ObjectivesUI.prefab
+  artifactKey: Guid(7106a2123199549b2a5ee16795147d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/ObjectivesUI.prefab using Guid(7106a2123199549b2a5ee16795147d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49dea131af9f597d25c1f12643389111') in 0.006976 seconds
+  Import took 0.011320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Hotelier/UI/PauseUI.prefab
+  artifactKey: Guid(e2b34449bfaaf4ae9b58843f93d8555c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/PauseUI.prefab using Guid(e2b34449bfaaf4ae9b58843f93d8555c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e40b05089f1118428a3ae11f797095d') in 0.005262 seconds
+  Import took 0.010184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Hotelier/UI/CraftingUI.prefab
+  artifactKey: Guid(e9ede46a957a947048e13305807a33e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/CraftingUI.prefab using Guid(e9ede46a957a947048e13305807a33e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d82ae35cb02dc4a520f78ae05741f78') in 0.006591 seconds
+  Import took 0.011194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Hotelier/UI/InventoryUI.prefab
+  artifactKey: Guid(3417884ed89c54e9881f2a34b3cd92f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/UI/InventoryUI.prefab using Guid(3417884ed89c54e9881f2a34b3cd92f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0ab99a85fc7c4e0f3dbf78a0c15ec41') in 0.007714 seconds
+  Import took 0.012315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.434768 seconds.
+  path: Assets/Hotelier/Hotelier_ManagerPackage.asset
+  artifactKey: Guid(f952a5b7da125463d8bccf920dc22372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Hotelier_ManagerPackage.asset using Guid(f952a5b7da125463d8bccf920dc22372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c65422217dbfb1366433f23092492cc') in 0.019730 seconds
+  Import took 0.024644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Hotelier/ManagerPackage.asset
+  artifactKey: Guid(67a81c301402948ce9a4c12da62bb23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/ManagerPackage.asset using Guid(67a81c301402948ce9a4c12da62bb23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45fc03b4073befefee2bf261f3aa8936') in 0.023151 seconds
+  Import took 0.028604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Hotelier/ManagerPackage 1.asset
+  artifactKey: Guid(f0493e778e10f45e7962572f60c77795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/ManagerPackage 1.asset using Guid(f0493e778e10f45e7962572f60c77795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287d700839c30c2a5dd7853b2829e25b') in 0.049472 seconds
+  Import took 0.056019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 427.210869 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/playerstart.png
+  artifactKey: Guid(8e02cd43349e7466f93bf719f9db9fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/playerstart.png using Guid(8e02cd43349e7466f93bf719f9db9fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3386b720d88b66731da8963672318125') in 0.018800 seconds
+  Import took 0.023369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.012327 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/black.png
+  artifactKey: Guid(2de7d16b4ac4b402182d4f2ca40e0b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/black.png using Guid(2de7d16b4ac4b402182d4f2ca40e0b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442c6dcd460f0f938b6e4f05efe9c85b') in 0.004783 seconds
+  Import took 0.009423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004745 seconds.
+  path: Assets/AdventureCreator/Graphics/Textures/black.png
+  artifactKey: Guid(2de7d16b4ac4b402182d4f2ca40e0b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Textures/black.png using Guid(2de7d16b4ac4b402182d4f2ca40e0b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442c6dcd460f0f938b6e4f05efe9c85b') in 0.006228 seconds
+  Import took 0.010559 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002119 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.204 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 233.8 MB.
+System memory in use after: 233.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 3261.
+Total: 2.470180 ms (FindLiveObjects: 0.341421 ms CreateObjectMapping: 0.121442 ms MarkObjects: 1.880832 ms  DeleteObjects: 0.125587 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.202 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.0 MB.
+System memory in use after: 234.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3266.
+Total: 2.304064 ms (FindLiveObjects: 0.264848 ms CreateObjectMapping: 0.112222 ms MarkObjects: 1.786320 ms  DeleteObjects: 0.139699 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.241 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.2 MB.
+System memory in use after: 234.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3271.
+Total: 2.337333 ms (FindLiveObjects: 0.275850 ms CreateObjectMapping: 0.119836 ms MarkObjects: 1.836324 ms  DeleteObjects: 0.104331 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003453 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.318 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.4 MB.
+System memory in use after: 234.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3276.
+Total: 2.883492 ms (FindLiveObjects: 0.276948 ms CreateObjectMapping: 0.346119 ms MarkObjects: 2.150987 ms  DeleteObjects: 0.108488 ms)
+

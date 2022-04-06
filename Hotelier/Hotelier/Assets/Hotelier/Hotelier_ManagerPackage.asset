@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: Hotelier_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: eee32f9cf6d58459485a314ce54ed16b, type: 2}
+  sceneManager: {fileID: 11400000, guid: b0c1f55e9d937480cb99308425d01472, type: 2}
+  settingsManager: {fileID: 11400000, guid: 48ae456221a704312a955d4cb2600afa, type: 2}
+  inventoryManager: {fileID: 11400000, guid: 9dedc24a752c34283a70aa0225ac665b, type: 2}
+  variablesManager: {fileID: 11400000, guid: ce8ba304e994a4820a498408f55ba8f9, type: 2}
+  speechManager: {fileID: 11400000, guid: 48ba8ad37f26740969104a73dc510548, type: 2}
+  cursorManager: {fileID: 11400000, guid: a80af8d53f1274e43b315621eecfef3e, type: 2}
+  menuManager: {fileID: 11400000, guid: f941bf4a42d534551919daca2bdb6c73, type: 2}
