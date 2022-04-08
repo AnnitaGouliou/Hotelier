@@ -1,0 +1,412 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55107
+Successfully changed project path to: /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier
+/Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets
+GfxDevice: creating device client; threaded=0
+2022-04-08 20:51:18.974 Unity[82585:42568723] iMac preferred device: AMD Radeon Pro 560 (high power)
+2022-04-08 20:51:18.974 Unity[82585:42568723] Metal devices available: 1
+2022-04-08 20:51:18.974 Unity[82585:42568723] 0: AMD Radeon Pro 560 (high power)
+2022-04-08 20:51:18.975 Unity[82585:42568723] Using device AMD Radeon Pro 560 (high power)
+Initializing Metal device caps: AMD Radeon Pro 560
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56585
+Begin MonoManager ReloadAssembly
+Error scanning for extension ivy.xml files: System.UnauthorizedAccessException: Access to the path '/Applications/Unity/Hub/Editor/2020.3.11f1/PlaybackEngines/WebGLSupport/BuildTools/Emscripten_Mac/node' is denied.
+  at System.IO.__Error.WinIOError (System.Int32 errorCode, System.String maybeFullPath) [0x00129] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].HandleError (System.Int32 hr, System.String path) [0x00006] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].AddSearchableDirsToStack (System.IO.Directory+SearchData localSearchData) [0x00053] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.FileSystemEnumerableIterator`1[TSource].MoveNext () [0x0008e] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Collections.Generic.List`1[T]..ctor (System.Collections.Generic.IEnumerable`1[T] collection) [0x00077] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.Directory.InternalGetFileDirectoryNames (System.String path, System.String userPathOriginal, System.String searchPattern, System.Boolean includeFiles, System.Boolean includeDirs, System.IO.SearchOption searchOption, System.Boolean checkHost) [0x0000f] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.Directory.InternalGetFiles (System.String path, System.String searchPattern, System.IO.SearchOption searchOption) [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.IO.Directory.GetFiles (System.String path, System.String searchPattern, System.IO.SearchOption searchOption) [0x00038] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at UnityEditor.Modules.ModuleManager.LoadLegacyExtensionsFromIvyFiles () [0x000a5] in /Users/bokken/buildslave/unity/build/Editor/Mono/Modules/ModuleManager.cs:253 
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002075 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 62.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.274 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 65.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.461 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2619 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.2 MB.
+System memory in use after: 193.3 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3050.
+Total: 2.297484 ms (FindLiveObjects: 0.255794 ms CreateObjectMapping: 0.134776 ms MarkObjects: 1.775671 ms  DeleteObjects: 0.130433 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/graphics/characters/carole
+  artifactKey: Guid(c235189fd308c4a4e9ce96f19094cbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole using Guid(c235189fd308c4a4e9ce96f19094cbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b936a5822bb787aa7d78624a5ec1196') in 0.005184 seconds
+  Import took 0.008817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.663698 seconds.
+  path: Assets/graphics/characters/carole/Carole@4x.png
+  artifactKey: Guid(2050cf24698ef4d58bdc4f4415d9cfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/Carole@4x.png using Guid(2050cf24698ef4d58bdc4f4415d9cfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d80a55420bc3be24f10a9e2a205385e') in 0.179874 seconds
+  Import took 0.184403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/graphics/characters/carole/caroleidle1@4x.png
+  artifactKey: Guid(e049afe070bf84b9d8e3f79df6f0ae16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroleidle1@4x.png using Guid(e049afe070bf84b9d8e3f79df6f0ae16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055d744407a21f28d9db0679e8fb783f') in 0.016454 seconds
+  Import took 0.020420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/graphics/characters/carole/carolewalk1@4x.png
+  artifactKey: Guid(4062847fee38b447ba81f3f06af79ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk1@4x.png using Guid(4062847fee38b447ba81f3f06af79ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dda4ce39cf4fb9a615afc43041d54e6') in 0.014324 seconds
+  Import took 0.018751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/graphics/characters/carole/carolewalk2@4x.png
+  artifactKey: Guid(fe68b45879b934375b08c37fb054f2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk2@4x.png using Guid(fe68b45879b934375b08c37fb054f2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38cd08601828dc14a192de6780d5fc93') in 0.017157 seconds
+  Import took 0.021793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/graphics/characters/carole/caroletalk1@4x.png
+  artifactKey: Guid(671109e1894324cf8b05c31e67ee409a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroletalk1@4x.png using Guid(671109e1894324cf8b05c31e67ee409a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f8cbf8c091fe6c2c001ad7e79ff07e') in 0.017064 seconds
+  Import took 0.021736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/graphics/characters/carole/caroletalk2@4x.png
+  artifactKey: Guid(1a73312e2df704292b62da0b61829156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroletalk2@4x.png using Guid(1a73312e2df704292b62da0b61829156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dea048dd843ea600b3ef8211a26ac16') in 0.015930 seconds
+  Import took 0.020501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/graphics/characters/carole/carolewalk@4x.png
+  artifactKey: Guid(4ad0ad9425bfb44919f1cbd4d889d717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk@4x.png using Guid(4ad0ad9425bfb44919f1cbd4d889d717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63a182efc018d331f050d230108b766b') in 0.016139 seconds
+  Import took 0.020985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/graphics/characters/carole/caroletalk@4x.png
+  artifactKey: Guid(209b460360f50440fbb7aec24870b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroletalk@4x.png using Guid(209b460360f50440fbb7aec24870b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b14c6b4041525dddfbb31c95d040a4bb') in 0.018321 seconds
+  Import took 0.023194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/graphics/characters/carole/caroleidle@4x.png
+  artifactKey: Guid(b9fedb1172ee14f26829a882647a7e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroleidle@4x.png using Guid(b9fedb1172ee14f26829a882647a7e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1acebe13177f2609a73bbef0712d094b') in 0.017501 seconds
+  Import took 0.022437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.099013 seconds.
+  path: Assets/graphics/characters/carole/Carole.png
+  artifactKey: Guid(2050cf24698ef4d58bdc4f4415d9cfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/Carole.png using Guid(2050cf24698ef4d58bdc4f4415d9cfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb898dc02bee8e8d920401dd2a107b9') in 0.014795 seconds
+  Import took 0.018596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.171002 seconds.
+  path: Assets/graphics/characters/carole/caroleidle1.png
+  artifactKey: Guid(e049afe070bf84b9d8e3f79df6f0ae16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroleidle1.png using Guid(e049afe070bf84b9d8e3f79df6f0ae16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7415bff231dbec4332d9014068843816') in 0.018753 seconds
+  Import took 0.023001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.146634 seconds.
+  path: Assets/graphics/characters/carole/caroleidle.png
+  artifactKey: Guid(b9fedb1172ee14f26829a882647a7e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroleidle.png using Guid(b9fedb1172ee14f26829a882647a7e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddbd87ab6154ad1e69ec5933d3cc1dc') in 0.014088 seconds
+  Import took 0.018207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.416561 seconds.
+  path: Assets/graphics/characters/carole/caroletalk1.png
+  artifactKey: Guid(671109e1894324cf8b05c31e67ee409a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroletalk1.png using Guid(671109e1894324cf8b05c31e67ee409a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19631ff95a11a87a7b1dbb9faa3bbcf8') in 0.016698 seconds
+  Import took 0.020866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.519016 seconds.
+  path: Assets/graphics/characters/carole/caroletalk2.png
+  artifactKey: Guid(1a73312e2df704292b62da0b61829156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroletalk2.png using Guid(1a73312e2df704292b62da0b61829156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '508ebc34465b7152866a59bb9f22c6a0') in 0.015022 seconds
+  Import took 0.019047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.679458 seconds.
+  path: Assets/graphics/characters/carole/caroletalk.png
+  artifactKey: Guid(209b460360f50440fbb7aec24870b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/caroletalk.png using Guid(209b460360f50440fbb7aec24870b69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2f798c151927d5c558b71649ddaf7ac') in 0.015917 seconds
+  Import took 0.021063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.881844 seconds.
+  path: Assets/graphics/characters/carole/carolewalk1.png
+  artifactKey: Guid(4062847fee38b447ba81f3f06af79ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk1.png using Guid(4062847fee38b447ba81f3f06af79ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fcd6832e151737c16eef7642f983127') in 0.011651 seconds
+  Import took 0.016575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003213 seconds.
+  path: Assets/graphics/characters/carole/carolewalk1.png
+  artifactKey: Guid(4062847fee38b447ba81f3f06af79ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk1.png using Guid(4062847fee38b447ba81f3f06af79ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fcd6832e151737c16eef7642f983127') in 0.011232 seconds
+  Import took 0.016025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.358934 seconds.
+  path: Assets/graphics/characters/carole/carolewalk2.png
+  artifactKey: Guid(fe68b45879b934375b08c37fb054f2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk2.png using Guid(fe68b45879b934375b08c37fb054f2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf8e9e22dd43a4d47ee650bae91723b3') in 0.014406 seconds
+  Import took 0.018608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.267811 seconds.
+  path: Assets/graphics/characters/carole/carolewalk.png
+  artifactKey: Guid(4ad0ad9425bfb44919f1cbd4d889d717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/carolewalk.png using Guid(4ad0ad9425bfb44919f1cbd4d889d717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2784e0d99d758bb1ad8bac9353b15c') in 0.015356 seconds
+  Import took 0.019519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 199.086437 seconds.
+  path: Assets/graphics/characters/carole/Carole.png
+  artifactKey: Guid(2050cf24698ef4d58bdc4f4415d9cfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/characters/carole/Carole.png using Guid(2050cf24698ef4d58bdc4f4415d9cfe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd945835b32686de11e7c647fba215850') in 0.014827 seconds
+  Import took 0.019513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 861.611617 seconds.
+  path: Assets/Hotelier/Animation/Carole.controller
+  artifactKey: Guid(609f77363aa8e477faec2c3225bd7f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Animation/Carole.controller using Guid(609f77363aa8e477faec2c3225bd7f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e47bc549991a5a80fd8a97bab27ee2') in 0.076230 seconds
+  Import took 0.079907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.704926 seconds.
+  path: Assets/Hotelier/Animation/Carole the guest.controller
+  artifactKey: Guid(a1d909ab7351343099b7a8e3e06c1199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/Animation/Carole the guest.controller using Guid(a1d909ab7351343099b7a8e3e06c1199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a113c8c22f764c5379eb62c4a40282') in 0.006342 seconds
+  Import took 0.010394 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.199 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.6 MB.
+System memory in use after: 205.7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3061.
+Total: 2.175259 ms (FindLiveObjects: 0.234385 ms CreateObjectMapping: 0.111923 ms MarkObjects: 1.732483 ms  DeleteObjects: 0.095557 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002048 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.265 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.3 MB.
+System memory in use after: 206.4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3066.
+Total: 2.248545 ms (FindLiveObjects: 0.242890 ms CreateObjectMapping: 0.123473 ms MarkObjects: 1.778123 ms  DeleteObjects: 0.103137 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002225 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.188 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.5 MB.
+System memory in use after: 206.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3071.
+Total: 2.449464 ms (FindLiveObjects: 0.218731 ms CreateObjectMapping: 0.136576 ms MarkObjects: 1.987395 ms  DeleteObjects: 0.105800 ms)
+
