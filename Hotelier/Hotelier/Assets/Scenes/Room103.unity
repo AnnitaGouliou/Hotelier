@@ -621,6 +621,7 @@ GameObject:
   - component: {fileID: 415152815}
   - component: {fileID: 415152814}
   - component: {fileID: 415152813}
+  - component: {fileID: 415152820}
   m_Layer: 0
   m_Name: Carole
   m_TagString: Untagged
@@ -910,6 +911,25 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &415152820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 415152811}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 930cd2651ae4d46b29cf95185f455896, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 103922
+  retainInPrefab: 0
+  autoManual: 0
+  saveParent: 0
+  saveScenePresence: 0
+  linkedPrefabID: 0
+  transformSpace: 0
 --- !u!1 &440589869
 GameObject:
   m_ObjectHideFlags: 0
