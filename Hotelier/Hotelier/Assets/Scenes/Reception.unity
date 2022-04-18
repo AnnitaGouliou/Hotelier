@@ -228,6 +228,7 @@ GameObject:
   - component: {fileID: 17242862}
   - component: {fileID: 17242861}
   - component: {fileID: 17242865}
+  - component: {fileID: 17242866}
   m_Layer: 0
   m_Name: barbaraidle
   m_TagString: Untagged
@@ -615,6 +616,24 @@ MonoBehaviour:
   retainInPrefab: 0
   autoManual: 0
   startState: 0
+--- !u!114 &17242866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17242858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b78a125ae22041aa92c0223821f8d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 229754
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
+  affectChildren: 0
+  saveColour: 0
 --- !u!114 &23910688
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2507,6 +2526,8 @@ GameObject:
   - component: {fileID: 320824915}
   - component: {fileID: 320824914}
   - component: {fileID: 320824913}
+  - component: {fileID: 320824919}
+  - component: {fileID: 320824918}
   m_Layer: 0
   m_Name: Dr James
   m_TagString: Untagged
@@ -2878,6 +2899,40 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &320824918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320824911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b591419ee344469da92bd1bb7e1a1bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 305516
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
+--- !u!114 &320824919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320824911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b78a125ae22041aa92c0223821f8d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 305516
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
+  affectChildren: 0
+  saveColour: 0
 --- !u!114 &336087648
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3420,8 +3475,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 400
-    y: 433
+    x: 316
+    y: 435
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -3429,7 +3484,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 806767990276406151}
   parameterID: -1
   constantID: 0
-  obToAffect: {fileID: 447262776}
+  obToAffect: {fileID: 1384371964}
   affectChildren: 1
   visState: 1
 --- !u!114 &395224165
@@ -3654,6 +3709,8 @@ GameObject:
   - component: {fileID: 419465101}
   - component: {fileID: 419465100}
   - component: {fileID: 419465099}
+  - component: {fileID: 419465104}
+  - component: {fileID: 419465103}
   m_Layer: 0
   m_Name: cristine
   m_TagString: Untagged
@@ -4025,6 +4082,40 @@ MonoBehaviour:
   customSortingMap: {fileID: 0}
   offsetOriginal: 0
   livePreview: 0
+--- !u!114 &419465103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419465096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b591419ee344469da92bd1bb7e1a1bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 305510
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
+--- !u!114 &419465104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419465096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b78a125ae22041aa92c0223821f8d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 305510
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
+  affectChildren: 0
+  saveColour: 0
 --- !u!114 &430387788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5933,8 +6024,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 337
-    y: 367
+    x: 368
+    y: 392
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -5942,7 +6033,7 @@ MonoBehaviour:
   parentActionListInEditor: {fileID: 5816485077200732975}
   parameterID: -1
   constantID: 0
-  obToAffect: {fileID: 670027084}
+  obToAffect: {fileID: 17242858}
   affectChildren: 1
   visState: 1
 --- !u!1 &650114243
@@ -8090,8 +8181,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 514
-    y: 180
+    x: 870
+    y: 85
     width: 300
     height: 220.5
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -8508,8 +8599,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 233
-    y: 616
+    x: 155
+    y: 587
     width: 300
     height: 132
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -10535,8 +10626,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 613
-    y: 359.62793
+    x: 734
+    y: 353.62793
     width: 300
     height: 186
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
@@ -11379,6 +11470,7 @@ GameObject:
   - component: {fileID: 1384371967}
   - component: {fileID: 1384371966}
   - component: {fileID: 1384371971}
+  - component: {fileID: 1384371972}
   m_Layer: 0
   m_Name: david
   m_TagString: Untagged
@@ -11766,6 +11858,24 @@ MonoBehaviour:
   retainInPrefab: 0
   autoManual: 0
   startState: 0
+--- !u!114 &1384371972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1384371964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b78a125ae22041aa92c0223821f8d84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 229748
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
+  affectChildren: 0
+  saveColour: 0
 --- !u!114 &1406098590
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11974,6 +12084,7 @@ GameObject:
   - component: {fileID: 1452996806}
   - component: {fileID: 1452996805}
   - component: {fileID: 1452996804}
+  - component: {fileID: 1452996808}
   m_Layer: 2
   m_Name: Dr James the guest
   m_TagString: Untagged
@@ -12295,6 +12406,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1452996808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1452996802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edd9ceeb2c9f4824959ed66e3adedce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 305520
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
 --- !u!114 &1461280704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13041,6 +13168,7 @@ GameObject:
   - component: {fileID: 1553653923}
   - component: {fileID: 1553653922}
   - component: {fileID: 1553653921}
+  - component: {fileID: 1553653926}
   m_Layer: 2
   m_Name: Cristine the guest
   m_TagString: Untagged
@@ -13354,6 +13482,22 @@ Transform:
   m_Father: {fileID: 68963495}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1553653926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553653920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5edd9ceeb2c9f4824959ed66e3adedce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  constantID: 305514
+  retainInPrefab: 0
+  autoManual: 0
+  startState: 0
 --- !u!114 &1583208882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13479,8 +13623,8 @@ MonoBehaviour:
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 513
-    y: 265.62793
+    x: 946
+    y: 398.62793
     width: 300
     height: 186
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
