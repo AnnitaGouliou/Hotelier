@@ -1431,3 +1431,199 @@ System memory in use after: 207.8 MB.
 Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3205.
 Total: 3.922748 ms (FindLiveObjects: 0.409332 ms CreateObjectMapping: 0.157249 ms MarkObjects: 2.813092 ms  DeleteObjects: 0.542004 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002103 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.5 MB.
+System memory in use after: 208.0 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3210.
+Total: 3.297344 ms (FindLiveObjects: 0.302179 ms CreateObjectMapping: 0.323144 ms MarkObjects: 2.258943 ms  DeleteObjects: 0.412106 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002097 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.225 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.7 MB.
+System memory in use after: 208.2 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3215.
+Total: 2.598627 ms (FindLiveObjects: 0.254410 ms CreateObjectMapping: 0.117622 ms MarkObjects: 1.827890 ms  DeleteObjects: 0.397817 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 208.9 MB.
+System memory in use after: 208.4 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3220.
+Total: 2.860448 ms (FindLiveObjects: 0.243740 ms CreateObjectMapping: 0.106265 ms MarkObjects: 1.822051 ms  DeleteObjects: 0.687584 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.259 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 209.1 MB.
+System memory in use after: 208.6 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3225.
+Total: 2.513801 ms (FindLiveObjects: 0.247413 ms CreateObjectMapping: 0.107801 ms MarkObjects: 1.764272 ms  DeleteObjects: 0.393474 ms)
+
