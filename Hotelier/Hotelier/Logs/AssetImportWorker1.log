@@ -1627,3 +1627,669 @@ System memory in use after: 208.6 MB.
 Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3225.
 Total: 2.513801 ms (FindLiveObjects: 0.247413 ms CreateObjectMapping: 0.107801 ms MarkObjects: 1.764272 ms  DeleteObjects: 0.393474 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 8992.706584 seconds.
+  path: Assets/graphics/GOLD.asset
+  artifactKey: Guid(3c3ba23984eea4b36b4ff55528eca6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/GOLD.asset using Guid(3c3ba23984eea4b36b4ff55528eca6af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87346299ae274fae47dfceb310161829') in 0.016262 seconds
+  Import took 0.020856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.960840 seconds.
+  path: Assets/graphics/hotelierlogo.png
+  artifactKey: Guid(0c736ad6f4d364e6daa44de0f514c33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/graphics/hotelierlogo.png using Guid(0c736ad6f4d364e6daa44de0f514c33d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aba24da629b19d1d2d2f25f005a3914') in 0.152307 seconds
+  Import took 0.157465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.929724 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9a6dbab25d6543dfee2789e8fae952') in 0.165848 seconds
+  Import took 0.171181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat
+  artifactKey: Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat using Guid(22262639920f43d6be32430e4e58350d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f087dcf16cec75a6974325e7c470dd37') in 0.293142 seconds
+  Import took 0.297493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Plank.mat
+  artifactKey: Guid(a236f6d6215524d8a9bad89f757bf1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Plank.mat using Guid(a236f6d6215524d8a9bad89f757bf1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6c44625e7828ec4c9b23cf92d4f24b0') in 0.009647 seconds
+  Import took 0.014133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Shelf.mat
+  artifactKey: Guid(31be86a1989454480993b6d0b0cf0931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Shelf.mat using Guid(31be86a1989454480993b6d0b0cf0931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad9f38e46d703a5036a2c3c6e429640e') in 0.008314 seconds
+  Import took 0.012950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.093317 seconds
+  Import took 0.098390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/GreenScreen.mat
+  artifactKey: Guid(d706c8c22a1ca48b6a9c7ad1cd6d57f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/GreenScreen.mat using Guid(d706c8c22a1ca48b6a9c7ad1cd6d57f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9bc7e62be4c76ce156e94be59bae403') in 0.009472 seconds
+  Import took 0.013630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat
+  artifactKey: Guid(9ad269c99dcf42b7aedefd83dd5a7b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat using Guid(9ad269c99dcf42b7aedefd83dd5a7b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530ab53d4647aa6af37f1765823d784d') in 0.024173 seconds
+  Import took 0.028689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Pinboard.mat
+  artifactKey: Guid(ca33eac86c906465a971789fc386d0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Pinboard.mat using Guid(ca33eac86c906465a971789fc386d0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a136397bdf1967b3652a8a215da205f1') in 0.012426 seconds
+  Import took 0.017108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+  artifactKey: Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf using Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8c1a00bffbbca26daddf1be33f1de4') in 0.092521 seconds
+  Import took 0.097953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/LampTable.mat
+  artifactKey: Guid(afaeb12b0ceeb45f1a611684ff9f4197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/LampTable.mat using Guid(afaeb12b0ceeb45f1a611684ff9f4197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af4ffc7e531d3d6a59dc33d9755ffe08') in 0.012105 seconds
+  Import took 0.018261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  artifactKey: Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf using Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da090ad0cb84772795ce44016cb0588') in 0.014209 seconds
+  Import took 0.019086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Script.mat
+  artifactKey: Guid(f6dc63324bfdd4276865767f9ae25c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Script.mat using Guid(f6dc63324bfdd4276865767f9ae25c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1a3d2e36552f107dba42f0fece0f8a0') in 0.012866 seconds
+  Import took 0.017795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Props/LightStand/Materials/LightStandBulb.mat
+  artifactKey: Guid(3af25894d295c4e93875442036947393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Props/LightStand/Materials/LightStandBulb.mat using Guid(3af25894d295c4e93875442036947393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99f4444c5e7f852c6cbc28fdc002481') in 0.009682 seconds
+  Import took 0.015483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Props/LightStand/Materials/Metal.mat
+  artifactKey: Guid(45a63af838c0f44a7af4680959fba049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Props/LightStand/Materials/Metal.mat using Guid(45a63af838c0f44a7af4680959fba049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4659912e54b4e235ec6c584e9d6ba6ba') in 0.010533 seconds
+  Import took 0.015526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ba1bb398137a00be6e06e68b72b365d') in 0.067391 seconds
+  Import took 0.072951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c2210586957436df79bf961aeff06e') in 0.014742 seconds
+  Import took 0.020334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Panelling.mat
+  artifactKey: Guid(26cf7e3478c9c45dfb446d89768e57e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Panelling.mat using Guid(26cf7e3478c9c45dfb446d89768e57e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bcc9add6ea77ae6c278fafaf01d44e') in 0.466623 seconds
+  Import took 0.471948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Skateboard.mat
+  artifactKey: Guid(e8c60f7e882a34856a66a00202dd4e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Skateboard.mat using Guid(e8c60f7e882a34856a66a00202dd4e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a05067fa16017b27d11128669882d1b6') in 0.019725 seconds
+  Import took 0.024768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Chars/Brain/Materials/Glasses.mat
+  artifactKey: Guid(27e8aad4b00db4d3096df2cc7edb8575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Chars/Brain/Materials/Glasses.mat using Guid(27e8aad4b00db4d3096df2cc7edb8575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5719b99e6dcdba49048466f2ac9a0e3a') in 0.268417 seconds
+  Import took 0.273024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.022876 seconds
+  Import took 0.027582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0993877c1c0e22b53a69262c6ee2775') in 0.195934 seconds
+  Import took 0.201248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2507f20aeeae8d98f86e4c2025440d37') in 0.010905 seconds
+  Import took 0.015498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/AdventureCreator/2D Demo/Graphics/Materials/Leaf.mat
+  artifactKey: Guid(3ec6612e2eecd44f78c32625a1333ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/2D Demo/Graphics/Materials/Leaf.mat using Guid(3ec6612e2eecd44f78c32625a1333ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c5a9f7a8e3362319fc8e7716b209ae') in 0.014450 seconds
+  Import took 0.019902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/AdventureCreator/Graphics/Materials/NavMeshSegment.mat
+  artifactKey: Guid(a40cefa99e3524013bdcb1be50c67fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Materials/NavMeshSegment.mat using Guid(a40cefa99e3524013bdcb1be50c67fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adfe7cce4fd5bb3138d24b0832dbb645') in 0.055067 seconds
+  Import took 0.060133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Lamp.mat
+  artifactKey: Guid(efee7dcf1de1a4957b6159006f0c172c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Lamp.mat using Guid(efee7dcf1de1a4957b6159006f0c172c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0436012803978592ddda0f1a5cc34bac') in 0.010801 seconds
+  Import took 0.015878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.035666 seconds
+  Import took 0.040502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Pin.mat
+  artifactKey: Guid(d5c8939656cf14a87891dce53c53e1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Pin.mat using Guid(d5c8939656cf14a87891dce53c53e1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52c0bb64a53fd69ad55a917debf4bb2') in 0.011404 seconds
+  Import took 0.016664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Metal.mat
+  artifactKey: Guid(961110151a40049248ee58638d4a70cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Metal.mat using Guid(961110151a40049248ee58638d4a70cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0382b5b9170384f08c7ed26b72a772') in 0.010947 seconds
+  Import took 0.015879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Lightshade.mat
+  artifactKey: Guid(b9d49014a084a4668aad666ca9b09c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Lightshade.mat using Guid(b9d49014a084a4668aad666ca9b09c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a34a4f09f905379eae687af6385f9cc') in 0.013171 seconds
+  Import took 0.018055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000729 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset
+  artifactKey: Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset using Guid(5302535af1044152a457ed104f1f4b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb1d6eca073f870200ba8bcb8f27c14') in 0.069424 seconds
+  Import took 0.074244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/SprayBottle.mat
+  artifactKey: Guid(c31147f826e3a426bb8893aad690a822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/SprayBottle.mat using Guid(c31147f826e3a426bb8893aad690a822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a526576d4a305d19ffe3f617e2534f') in 0.161168 seconds
+  Import took 0.166068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Props/Sword/Materials/Sword.mat
+  artifactKey: Guid(87d17363fd31a440da8c52f863da54b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Props/Sword/Materials/Sword.mat using Guid(87d17363fd31a440da8c52f863da54b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e4535d40df8a5f743c8f6cc5052e0a') in 0.014662 seconds
+  Import took 0.019497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat
+  artifactKey: Guid(e6b276ec991f467aa14ef1f3cc665993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat using Guid(e6b276ec991f467aa14ef1f3cc665993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b473d3532bac8111072f2cb19e40b057') in 0.208521 seconds
+  Import took 0.213653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/AdventureCreator/Graphics/Materials/NavMesh.mat
+  artifactKey: Guid(6ef516307522240928d97469070418dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Materials/NavMesh.mat using Guid(6ef516307522240928d97469070418dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '407bcb40b6ce9375b02084e723048c76') in 0.010058 seconds
+  Import took 0.015364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Walls.mat
+  artifactKey: Guid(36c74f24360d142a7a8472cb2beedd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Walls.mat using Guid(36c74f24360d142a7a8472cb2beedd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e00a0979c54fddb5865b9b69794cde') in 0.013818 seconds
+  Import took 0.018584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/FuseBoxes.mat
+  artifactKey: Guid(680afbd06d33d4e11a5b0bc5d4db79ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/FuseBoxes.mat using Guid(680afbd06d33d4e11a5b0bc5d4db79ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd570d1e22e981b74d83d4b045d883143') in 0.010922 seconds
+  Import took 0.017221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+  artifactKey: Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf using Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7106ff1dcf1ba0ec63a341ab912ac9e5') in 0.015533 seconds
+  Import took 0.022210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000977 seconds.
+  path: Assets/AdventureCreator/Graphics/Materials/Marker.mat
+  artifactKey: Guid(e5f801bbfcba045ccaee69fc313de73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Materials/Marker.mat using Guid(e5f801bbfcba045ccaee69fc313de73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '135483c96ffd39c415e5199bfc14738d') in 0.015974 seconds
+  Import took 0.024497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f74535dbbe80d820aad8820167369b') in 0.014624 seconds
+  Import took 0.021192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aecbacf0b5b681b775f225c866b98f6e') in 0.013923 seconds
+  Import took 0.019205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001003 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/LampShade.mat
+  artifactKey: Guid(0e871a68d60e34643941ec90407fc5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/LampShade.mat using Guid(0e871a68d60e34643941ec90407fc5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46feb421c6f6af676acb7291056176fd') in 0.010116 seconds
+  Import took 0.015007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Newspaper.mat
+  artifactKey: Guid(ff0d7053a857543e499d526f3cd40c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Newspaper.mat using Guid(ff0d7053a857543e499d526f3cd40c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4e149847a22a251795c923cd013cc1') in 0.009737 seconds
+  Import took 0.014631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/WineBottle.mat
+  artifactKey: Guid(4290eb07dff7947438fb5b425613a583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/WineBottle.mat using Guid(4290eb07dff7947438fb5b425613a583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49573d69b1b57793dc013e202e8f9c68') in 0.448285 seconds
+  Import took 0.452794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat
+  artifactKey: Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat using Guid(b246c4190f4e46ec9352fe15a7b09ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0193c990cebd7bcd9d6b31ea7739d38') in 0.025106 seconds
+  Import took 0.029764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/WallBrick.mat
+  artifactKey: Guid(fdfe4ef96b3db4565b6d2e14b5cad7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/WallBrick.mat using Guid(fdfe4ef96b3db4565b6d2e14b5cad7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9552735872729a67d1090b6273551c1a') in 0.466527 seconds
+  Import took 0.471601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Mug.mat
+  artifactKey: Guid(71945c6ce83eb47a6b0338d6e90b0c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Mug.mat using Guid(71945c6ce83eb47a6b0338d6e90b0c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c13b706f1fa3c07bfb74753417fc2e') in 0.011420 seconds
+  Import took 0.016332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f18b71994742d88d97c1c2a21580d2d7') in 0.019588 seconds
+  Import took 0.024927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Props/Wipe/Materials/Wipe.mat
+  artifactKey: Guid(c445fd803f2d74c8dacbf88020b646ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Props/Wipe/Materials/Wipe.mat using Guid(c445fd803f2d74c8dacbf88020b646ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850389aa93544570025c4b0cb9d5fcb9') in 0.064809 seconds
+  Import took 0.069654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+  artifactKey: Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat using Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab2dc3a4077b37fe1bf25fc2e34219a') in 0.248922 seconds
+  Import took 0.253791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Plastic.mat
+  artifactKey: Guid(2c3206e9ce7f44b788cc34e9ea7d4cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Plastic.mat using Guid(2c3206e9ce7f44b788cc34e9ea7d4cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa5e1999aea794d60fd2c0f642318b3') in 0.011270 seconds
+  Import took 0.016335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/AdventureCreator/Graphics/Materials/StaticObstacle.mat
+  artifactKey: Guid(c7dac867129794ccfa3091f9cd781ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Materials/StaticObstacle.mat using Guid(c7dac867129794ccfa3091f9cd781ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7859a26be7049e331079a85c92bffd') in 0.011349 seconds
+  Import took 0.017018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+  artifactKey: Guid(e6b9b44320f4448d9d5e0ee634259966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat using Guid(e6b9b44320f4448d9d5e0ee634259966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82cf10a232fb1e9761a31632be84bc7c') in 0.343215 seconds
+  Import took 0.349037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d5558f03e795f216f7f29785091b5c') in 0.011110 seconds
+  Import took 0.016091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+  artifactKey: Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF using Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d591faf4c08405dec947fe17efa8475') in 0.039810 seconds
+  Import took 0.045131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31d09850e079c4c77073532874e4c7b') in 0.011848 seconds
+  Import took 0.017543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat
+  artifactKey: Guid(aadd5a709a48466c887296bb5b1b8110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat using Guid(aadd5a709a48466c887296bb5b1b8110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb1a531bdeffaee745a9dd9c4f17fc2') in 0.010043 seconds
+  Import took 0.015148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf
+  artifactKey: Guid(5dd49b3eacc540408c98eee0de38e0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf using Guid(5dd49b3eacc540408c98eee0de38e0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b525bf5cce1ab3bb4f9373e3154b9a3a') in 0.016970 seconds
+  Import took 0.022704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Takeaway.mat
+  artifactKey: Guid(19eb80aa47df84d4194a1f0c434d1e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Takeaway.mat using Guid(19eb80aa47df84d4194a1f0c434d1e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a0170c862073230bbdc336d8ea48c61') in 0.010828 seconds
+  Import took 0.017433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a5ca144293083340976837f0521db0') in 0.629705 seconds
+  Import took 0.636435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat
+  artifactKey: Guid(c719e38f25a9480abd2480ab621a2949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat using Guid(c719e38f25a9480abd2480ab621a2949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4457526dabe3b1ee21207b5702e85636') in 0.010850 seconds
+  Import took 0.015693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset
+  artifactKey: Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset using Guid(0161d805a3764c089bef00bfe00793f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd214e28bdeb8e7d744101e38a9ef9c0f') in 0.012528 seconds
+  Import took 0.018219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Glass.mat
+  artifactKey: Guid(ecf52c6fae13c42a9997bb4faf035c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/Glass.mat using Guid(ecf52c6fae13c42a9997bb4faf035c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b4404e1e22e8576d4848a3618f9e8f') in 0.296672 seconds
+  Import took 0.300982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat
+  artifactKey: Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat using Guid(8b29aaa3eec7468097ff07adfcf29ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1750271ec33564c9e991fc66a41ad3d0') in 0.250678 seconds
+  Import took 0.254704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Props/TrashCan/Materials/TrashCan.mat
+  artifactKey: Guid(76688f17c25d34f468b871023f35495e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Props/TrashCan/Materials/TrashCan.mat using Guid(76688f17c25d34f468b871023f35495e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '437de73f7646ebb7dadd28ee752ace44') in 0.016974 seconds
+  Import took 0.021788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/No Name.mat
+  artifactKey: Guid(1f5eb6ae3fc154f62974ce883fd3a1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Sets/Basement/Materials/No Name.mat using Guid(1f5eb6ae3fc154f62974ce883fd3a1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c728a8a751ea8d7d7dee160fe980ff83') in 0.007109 seconds
+  Import took 0.011847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Props/LightStand/Materials/LightStand.mat
+  artifactKey: Guid(6db424c4060f7481494b1dfad4d18ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Props/LightStand/Materials/LightStand.mat using Guid(6db424c4060f7481494b1dfad4d18ca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a87a2dcdbbd1dd72c7c93fe184147e5') in 0.010226 seconds
+  Import took 0.015029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/AdventureCreator/Demo/Models/Chars/Robot/Materials/Robot.mat
+  artifactKey: Guid(f6df2c90cc63d40ba801bd2240edaa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Demo/Models/Chars/Robot/Materials/Robot.mat using Guid(f6df2c90cc63d40ba801bd2240edaa77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd8d24609f0ebdfcd06bd2376991135') in 0.169642 seconds
+  Import took 0.174430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/AdventureCreator/Graphics/Materials/PlayerStart.mat
+  artifactKey: Guid(44edaf8b63d59414a977f1049d3609fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureCreator/Graphics/Materials/PlayerStart.mat using Guid(44edaf8b63d59414a977f1049d3609fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b0a22c46b0aef2de1564eb1d7c5c08b') in 0.010959 seconds
+  Import took 0.015747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat
+  artifactKey: Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat using Guid(42df1c7856584b6b8db9a509b6b10074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c07a3f0197d45ee33843239212d1c942') in 0.057777 seconds
+  Import took 0.062841 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002125 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 234.2 MB.
+System memory in use after: 234.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3290.
+Total: 2.648472 ms (FindLiveObjects: 0.264835 ms CreateObjectMapping: 0.110432 ms MarkObjects: 2.019136 ms  DeleteObjects: 0.253261 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002568 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.231 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2654 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 233.8 MB.
+System memory in use after: 233.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3295.
+Total: 3.116346 ms (FindLiveObjects: 0.266418 ms CreateObjectMapping: 0.104527 ms MarkObjects: 2.458677 ms  DeleteObjects: 0.285774 ms)
+
