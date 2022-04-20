@@ -689,7 +689,7 @@ MonoBehaviour:
     description: 'From: Dr James the guest: Key 201'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 0bd756b9ba2954f598e284725f01e401, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -918,7 +918,7 @@ MonoBehaviour:
     description: 'From: Dr James the guest: Key101'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 47cd5526e9ede45989109a19f02a9816, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -1089,7 +1089,7 @@ MonoBehaviour:
     description: 'From: Dr James the guest: Key 103'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 1b89132b508f44aa5bafb39d1ea1770f, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -1165,7 +1165,7 @@ MonoBehaviour:
     description: 'From: Dr James the guest: Talk to'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 87aded51bd7ef41d1a22ff2717a70722, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []

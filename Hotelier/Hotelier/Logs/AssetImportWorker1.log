@@ -4141,3 +4141,43 @@ System memory in use after: 253.5 MB.
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3461.
 Total: 2.885246 ms (FindLiveObjects: 0.290765 ms CreateObjectMapping: 0.118049 ms MarkObjects: 2.196793 ms  DeleteObjects: 0.278663 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 309.212156 seconds.
+  path: Assets/Hotelier/sounds/james/james201.mp3
+  artifactKey: Guid(0bd756b9ba2954f598e284725f01e401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/james/james201.mp3 using Guid(0bd756b9ba2954f598e284725f01e401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e4041be3bba65b2024a7536461de0a') in 0.058885 seconds
+  Import took 0.063351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.535718 seconds.
+  path: Assets/Hotelier/sounds/james/jamescomplete.mp3
+  artifactKey: Guid(47cd5526e9ede45989109a19f02a9816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/james/jamescomplete.mp3 using Guid(47cd5526e9ede45989109a19f02a9816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049b6a15a9f7ea8c01d599aaf868ba7c') in 0.018213 seconds
+  Import took 0.022577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002604 seconds.
+  path: Assets/Hotelier/sounds/james/jamescomplete.mp3
+  artifactKey: Guid(47cd5526e9ede45989109a19f02a9816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/james/jamescomplete.mp3 using Guid(47cd5526e9ede45989109a19f02a9816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049b6a15a9f7ea8c01d599aaf868ba7c') in 0.008882 seconds
+  Import took 0.013200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.701235 seconds.
+  path: Assets/Hotelier/sounds/james/james103.mp3
+  artifactKey: Guid(1b89132b508f44aa5bafb39d1ea1770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/james/james103.mp3 using Guid(1b89132b508f44aa5bafb39d1ea1770f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44f339d4cf548a2384afb25be9c65397') in 0.010257 seconds
+  Import took 0.015034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.827147 seconds.
+  path: Assets/Hotelier/sounds/james/jamesinquiry.mp3
+  artifactKey: Guid(87aded51bd7ef41d1a22ff2717a70722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/james/jamesinquiry.mp3 using Guid(87aded51bd7ef41d1a22ff2717a70722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c73fb808aac646b92ae24a4a2fe98d2') in 0.009531 seconds
+  Import took 0.014374 seconds .
+
