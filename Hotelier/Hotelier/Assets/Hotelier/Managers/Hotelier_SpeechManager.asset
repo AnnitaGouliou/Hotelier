@@ -175,7 +175,7 @@ MonoBehaviour:
     description: 'From: David the guest: Talk to'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: cb24ca8f89e5d4320be844ba8323c67c, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -346,7 +346,7 @@ MonoBehaviour:
     description: 'From: David the guest: Key 103'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: d9d7cc22adfb6442098ccc8df213ad91, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -479,7 +479,7 @@ MonoBehaviour:
     description: 'From: David the guest: Key 201'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 60587634ee26f4183b782e007fbdafdf, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -651,7 +651,7 @@ MonoBehaviour:
     description: 'From: David the guest: Reception Key'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: ad2b7f494858040c2a22ac1555f2c035, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -670,7 +670,7 @@ MonoBehaviour:
     description: 'From: David the guest: Key101'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 93c364d5ab0d24e7198f9dacc71dd2b0, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -785,7 +785,7 @@ MonoBehaviour:
     description: 'From: David the guest: Lounge Key'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 7e30225ccc2a642b6a220c490a540706, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -1108,7 +1108,7 @@ MonoBehaviour:
     description: 'From: David the guest: Key 202'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 40eb6579e9a05461eb509e9820d8ea2b, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -1127,7 +1127,7 @@ MonoBehaviour:
     description: 'From: David the guest: Key 301'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 2d9a16526f1f44377a1233c613375991, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []

@@ -4610,3 +4610,116 @@ System memory in use after: 254.9 MB.
 Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3488.
 Total: 2.661221 ms (FindLiveObjects: 0.311018 ms CreateObjectMapping: 0.124702 ms MarkObjects: 1.950674 ms  DeleteObjects: 0.273734 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 548.913518 seconds.
+  path: Assets/Hotelier/sounds/david/davidinquiry.mp3
+  artifactKey: Guid(cb24ca8f89e5d4320be844ba8323c67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/davidinquiry.mp3 using Guid(cb24ca8f89e5d4320be844ba8323c67c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e3f58aef08afa431ca9a76c4323a47') in 0.056763 seconds
+  Import took 0.062496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.194756 seconds.
+  path: Assets/Hotelier/sounds/david/david103.mp3
+  artifactKey: Guid(d9d7cc22adfb6442098ccc8df213ad91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/david103.mp3 using Guid(d9d7cc22adfb6442098ccc8df213ad91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7a7f69185e97dbc1dffd0f44c0fa08') in 0.010815 seconds
+  Import took 0.015326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.743840 seconds.
+  path: Assets/Hotelier/sounds/david/david201.mp3
+  artifactKey: Guid(60587634ee26f4183b782e007fbdafdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/david201.mp3 using Guid(60587634ee26f4183b782e007fbdafdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4173c125e6195cacc4be3425c42d701d') in 0.010173 seconds
+  Import took 0.015190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.897705 seconds.
+  path: Assets/Hotelier/sounds/david/davidreception.mp3
+  artifactKey: Guid(ad2b7f494858040c2a22ac1555f2c035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/davidreception.mp3 using Guid(ad2b7f494858040c2a22ac1555f2c035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1cae54bfc1fbe576199fe5cff3c17d6') in 0.069295 seconds
+  Import took 0.074336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.295180 seconds.
+  path: Assets/Hotelier/sounds/david/david101.mp3
+  artifactKey: Guid(93c364d5ab0d24e7198f9dacc71dd2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/david101.mp3 using Guid(93c364d5ab0d24e7198f9dacc71dd2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51db4e2faa0586c2991f6210ef2ee9f9') in 0.010045 seconds
+  Import took 0.014667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.574662 seconds.
+  path: Assets/Hotelier/sounds/david/davidlounge.mp3
+  artifactKey: Guid(7e30225ccc2a642b6a220c490a540706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/davidlounge.mp3 using Guid(7e30225ccc2a642b6a220c490a540706) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f970db3ab6d55f92f00fac4108213e') in 0.067823 seconds
+  Import took 0.073175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.217581 seconds.
+  path: Assets/Hotelier/sounds/david/david202.mp3
+  artifactKey: Guid(40eb6579e9a05461eb509e9820d8ea2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/david202.mp3 using Guid(40eb6579e9a05461eb509e9820d8ea2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee2911954cf90d8fa084468aced25ba') in 0.009622 seconds
+  Import took 0.014584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.970620 seconds.
+  path: Assets/Hotelier/sounds/david/david301.mp3
+  artifactKey: Guid(2d9a16526f1f44377a1233c613375991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/david/david301.mp3 using Guid(2d9a16526f1f44377a1233c613375991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4527f37a51ebe654c4d148808074c8ba') in 0.069267 seconds
+  Import took 0.074127 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+CreateSerializedAsset is not supported while importing out-of-process
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+AC.ACEditorPrefs:GetOrCreateSettings () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96)
+AC.ACEditorPrefs:get_DisableInstaller () (at Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334)
+AC.ACInstaller:IsInstalled () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37)
+AC.ACInstaller:CheckInstall () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52)
+AC.ACInstaller:.cctor () (at Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:114)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+UnityEngine.UnityException: Creating asset at path Assets/AdventureCreator/Editor/ACEditorPrefs.asset failed.
+  at (wrapper managed-to-native) UnityEditor.AssetDatabase.CreateAsset(UnityEngine.Object,string)
+  at AC.ACEditorPrefs.GetOrCreateSettings () [0x00115] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:96 
+  at AC.ACEditorPrefs.get_DisableInstaller () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/ACEditorPrefs.cs:334 
+  at AC.ACInstaller.IsInstalled () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:37 
+  at AC.ACInstaller.CheckInstall () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:52 
+  at AC.ACInstaller..cctor () [0x00000] in /Users/annagouliou/Desktop/hotelier./Hotelier/Hotelier/Assets/AdventureCreator/Scripts/Managers/Editor/ACInstaller.cs:31 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:118)
+
+(Filename: /Users/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 118)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.424 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2654 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 255.5 MB.
+System memory in use after: 255.3 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3494.
+Total: 2.508683 ms (FindLiveObjects: 0.288221 ms CreateObjectMapping: 0.100467 ms MarkObjects: 1.850808 ms  DeleteObjects: 0.268264 ms)
+
