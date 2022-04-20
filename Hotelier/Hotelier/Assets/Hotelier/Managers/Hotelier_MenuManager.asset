@@ -1522,7 +1522,7 @@ MonoBehaviour:
   speechMenuType: 0
   speechMenuLimit: 0
   limitToCharacters: 
-  forceSubtitles: 0
+  forceSubtitles: 1
   moveWithCharacter: 1
   selected_element: {fileID: 0}
   selected_slot: 0
