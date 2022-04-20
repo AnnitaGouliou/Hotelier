@@ -4181,3 +4181,75 @@ Received Import Request.
 Start importing Assets/Hotelier/sounds/james/jamesinquiry.mp3 using Guid(87aded51bd7ef41d1a22ff2717a70722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c73fb808aac646b92ae24a4a2fe98d2') in 0.009531 seconds
   Import took 0.014374 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 366.182267 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristine202.mp3
+  artifactKey: Guid(3183945aad837488281d647aae59b24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristine202.mp3 using Guid(3183945aad837488281d647aae59b24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e8a2a62137639babcfa93e46f49de3') in 0.010553 seconds
+  Import took 0.015719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.400220 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristine102.mp3
+  artifactKey: Guid(119546b151b7942b68239d0e0f5e2147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristine102.mp3 using Guid(119546b151b7942b68239d0e0f5e2147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661dbf1e854ab4bed35fa063f75922f5') in 0.010140 seconds
+  Import took 0.015512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.766024 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristinecorrect.mp3
+  artifactKey: Guid(58ca9bb0114024ec391ae26dc2b3f620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristinecorrect.mp3 using Guid(58ca9bb0114024ec391ae26dc2b3f620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22d4cd25a1437d1d9a425964ee1dd88') in 0.009860 seconds
+  Import took 0.015035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.062345 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristine201.mp3
+  artifactKey: Guid(043b9f70f3dff471c8a2810ff944a9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristine201.mp3 using Guid(043b9f70f3dff471c8a2810ff944a9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd767c8089f2193db1c02b29af5e54ee1') in 0.010786 seconds
+  Import took 0.015873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.166353 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristinelounge.mp3
+  artifactKey: Guid(f86a0d1c2f4ca4fcbbb20abd3edbefca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristinelounge.mp3 using Guid(f86a0d1c2f4ca4fcbbb20abd3edbefca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c5ec2a7380a5249a281720e186c2d0') in 0.010416 seconds
+  Import took 0.015258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.888107 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristinereception.mp3
+  artifactKey: Guid(bc13a9bfcc6c846ef9ae54c00a044ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristinereception.mp3 using Guid(bc13a9bfcc6c846ef9ae54c00a044ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a4163081925e1cce71a44e8a38d3a2a') in 0.010429 seconds
+  Import took 0.015255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.576151 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristine101.mp3
+  artifactKey: Guid(e378f2ab9464542e8951c33ffd180063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristine101.mp3 using Guid(e378f2ab9464542e8951c33ffd180063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9148ee987ce0c375a7de0d4bf9faa1b') in 0.011320 seconds
+  Import took 0.016527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.405827 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristineinquiry.mp3
+  artifactKey: Guid(147ad764b6f5943f2813e92b5e5abb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristineinquiry.mp3 using Guid(147ad764b6f5943f2813e92b5e5abb15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa2b177abcbec2aeb308d95f7b6a8b0') in 0.067453 seconds
+  Import took 0.071722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.961021 seconds.
+  path: Assets/Hotelier/sounds/cristine/cristine103.mp3
+  artifactKey: Guid(aa00e3774f4db43a98a2ad43b784b7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hotelier/sounds/cristine/cristine103.mp3 using Guid(aa00e3774f4db43a98a2ad43b784b7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191fb260d647293ac98b1b0a77a24f7a') in 0.069937 seconds
+  Import took 0.074893 seconds .
+

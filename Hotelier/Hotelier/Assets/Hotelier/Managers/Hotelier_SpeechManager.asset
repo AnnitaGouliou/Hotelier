@@ -213,7 +213,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Key 202'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 3183945aad837488281d647aae59b24e, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -232,7 +232,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Key 102'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 119546b151b7942b68239d0e0f5e2147, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -270,7 +270,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Key 301'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 58ca9bb0114024ec391ae26dc2b3f620, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -308,7 +308,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Key 201'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 043b9f70f3dff471c8a2810ff944a9a9, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -365,7 +365,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Lounge Key'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: f86a0d1c2f4ca4fcbbb20abd3edbefca, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -594,7 +594,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Reception Key'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: bc13a9bfcc6c846ef9ae54c00a044ecd, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -804,7 +804,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Key101'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: e378f2ab9464542e8951c33ffd180063, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -994,7 +994,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Talk to'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: 147ad764b6f5943f2813e92b5e5abb15, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
@@ -1070,7 +1070,7 @@ MonoBehaviour:
     description: 'From: Cristine the guest: Key 103'
     textType: 0
     translationText: []
-    customAudioClip: {fileID: 0}
+    customAudioClip: {fileID: 8300000, guid: aa00e3774f4db43a98a2ad43b784b7b3, type: 3}
     customLipsyncFile: {fileID: 0}
     customTranslationAudioClips: []
     customTranslationLipsyncFiles: []
