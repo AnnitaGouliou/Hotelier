@@ -2277,7 +2277,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 199
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -2567,7 +2567,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 200
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -2741,7 +2741,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 201
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -3089,7 +3089,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 202
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -3205,7 +3205,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 203
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}

@@ -1987,7 +1987,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 204
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -2103,7 +2103,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Room 201
-  lineID: -1
+  lineID: 205
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -2451,7 +2451,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Room 202
-  lineID: -1
+  lineID: 206
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -2625,7 +2625,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 207
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}

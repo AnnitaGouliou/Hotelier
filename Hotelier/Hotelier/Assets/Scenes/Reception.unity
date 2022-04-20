@@ -170,7 +170,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: 'Briiiiiliant. Thank you so much mr John. Thank you '
-  lineID: -1
+  lineID: 117
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -317,7 +317,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Barbara the guest
-  lineID: -1
+  lineID: 166
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -783,7 +783,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: I dont fancy this room. Do you have a better choice?
-  lineID: -1
+  lineID: 145
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -985,7 +985,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Hello Mr David. What can i do for you today?
-  lineID: -1
+  lineID: 111
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -1376,7 +1376,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: What am i suppose to do with reception key. No thank you
-  lineID: -1
+  lineID: 106
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -1548,7 +1548,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: 'The lounge key has no use to me. Sorry '
-  lineID: -1
+  lineID: 122
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -1608,7 +1608,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Dr James welcome to the hotel. Do you need a room?
-  lineID: -1
+  lineID: 163
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -1755,7 +1755,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: i dont think this is a key you want to give me.
-  lineID: -1
+  lineID: 123
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -1815,7 +1815,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 871580962}
   messageText: Let's get to work.
-  lineID: -1
+  lineID: 146
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2065,7 +2065,7 @@ MonoBehaviour:
   speaker: {fileID: 1452996805}
   messageText: Nice to see you John. I need a single room with desk. i have work
     to do.
-  lineID: -1
+  lineID: 164
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2125,7 +2125,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 871580962}
   messageText: That's why i need your help.
-  lineID: -1
+  lineID: 148
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2237,7 +2237,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: No this room doesn't suit me. We are three of us John.
-  lineID: -1
+  lineID: 121
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2297,7 +2297,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Of course. Let me give you the right key for the room
-  lineID: -1
+  lineID: 156
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2357,7 +2357,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 871580962}
   messageText: We have many guests today.
-  lineID: -1
+  lineID: 147
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2417,7 +2417,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: Do you have any other room to show me please?
-  lineID: -1
+  lineID: 115
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -2565,7 +2565,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Dr James the guest
-  lineID: -1
+  lineID: 167
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -2981,7 +2981,7 @@ MonoBehaviour:
   speaker: {fileID: 447262781}
   messageText: Hello John. I need a room for my wife my 10 years old son and myself
     please. We need a double bed and a single bed.
-  lineID: -1
+  lineID: 112
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3041,7 +3041,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: That's not what we need. Please give us different room.
-  lineID: -1
+  lineID: 128
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -3104,7 +3104,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Key room 101
-  lineID: -1
+  lineID: 168
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -3799,7 +3799,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Cristine the guest
-  lineID: -1
+  lineID: 169
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -4215,7 +4215,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: 'Not the right room for my family. We are three of us '
-  lineID: -1
+  lineID: 138
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -4382,7 +4382,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: David
-  lineID: -1
+  lineID: 170
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
   portraitIcon:
@@ -4717,7 +4717,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: 'I do not need the Lounge Key. I need a Room Key '
-  lineID: -1
+  lineID: 136
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -5738,7 +5738,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Key room 201
-  lineID: -1
+  lineID: 171
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -6370,7 +6370,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: Barbara the guest
-  lineID: -1
+  lineID: 166
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
   portraitIcon:
@@ -6705,7 +6705,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Dearest Barbara. Welcome back. How can i help?
-  lineID: -1
+  lineID: 140
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -6810,7 +6810,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: This is too big for my needs
-  lineID: -1
+  lineID: 133
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -7057,7 +7057,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: To be honest i dont like this room
-  lineID: -1
+  lineID: 160
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -7196,7 +7196,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Key room 202
-  lineID: -1
+  lineID: 173
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -7551,7 +7551,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Key room 102
-  lineID: -1
+  lineID: 174
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -7870,7 +7870,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: I'm sorry. This is not what i asked for
-  lineID: -1
+  lineID: 152
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -7915,7 +7915,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Mr John
-  lineID: -1
+  lineID: 175
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -8135,7 +8135,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: Not what we are looking for. We are four of us.
-  lineID: -1
+  lineID: 157
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -8196,7 +8196,7 @@ MonoBehaviour:
   speaker: {fileID: 1605438805}
   messageText: Hello. I would need a room with two single beds for myself and my
     sister please.
-  lineID: -1
+  lineID: 131
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -8958,7 +8958,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Hello Miss, is there anything i can help you with today?
-  lineID: -1
+  lineID: 154
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -9160,7 +9160,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: Yes please. I need a suite room for my and my partner.
-  lineID: -1
+  lineID: 155
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -9272,7 +9272,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: I am so sorry but i cannot accept this room.
-  lineID: -1
+  lineID: 161
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -9459,7 +9459,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Welcome to Hotelier.
-  lineID: -1
+  lineID: 135
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -9519,7 +9519,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: Apologies John. I don't think a suite is the best idea for my needs
-  lineID: -1
+  lineID: 125
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -9830,7 +9830,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: Excuse me sir, this is not what i wanted. I need a double bed
-  lineID: -1
+  lineID: 159
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -10136,7 +10136,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: Room 202 it is not suitable. We need 4 beds
-  lineID: -1
+  lineID: 127
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -10376,7 +10376,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: I cannot take the reception key. This belongs to the owner
-  lineID: -1
+  lineID: 126
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -10580,7 +10580,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Give me just a second to find the right room.
-  lineID: -1
+  lineID: 113
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -10640,7 +10640,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Sure my dear. Let me check the floor plan for the right room.
-  lineID: -1
+  lineID: 142
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -10783,7 +10783,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Lounge key
-  lineID: -1
+  lineID: 176
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -11033,7 +11033,7 @@ MonoBehaviour:
   speaker: {fileID: 447262781}
   messageText: Too small room for us. Where my son is gonna sleep? We need other
     room.
-  lineID: -1
+  lineID: 162
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -11203,7 +11203,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: Mr John my boyfriend would not like the room. Can we see another one?
-  lineID: -1
+  lineID: 119
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -11442,7 +11442,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: The reception key belongs to mr John.Cannot accept it.
-  lineID: -1
+  lineID: 134
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -11508,7 +11508,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: David the guest
-  lineID: -1
+  lineID: 177
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -11923,7 +11923,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Sure. let me find the key for the single room
-  lineID: -1
+  lineID: 165
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -12028,7 +12028,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: 'Not my cup of tea. Please give me a single room with desk '
-  lineID: -1
+  lineID: 139
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -12152,7 +12152,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: Dr James the guest
-  lineID: -1
+  lineID: 167
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
   portraitIcon:
@@ -12469,7 +12469,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: i need a room on the first floor
-  lineID: -1
+  lineID: 109
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -12612,7 +12612,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Reception Key
-  lineID: -1
+  lineID: 179
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -12845,7 +12845,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: Fabulous John. Thank's a lot.
-  lineID: -1
+  lineID: 143
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -13002,7 +13002,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: I need two single beds. Not a double
-  lineID: -1
+  lineID: 150
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -13142,7 +13142,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: 'I dont want the key for the lounge. Sorry '
-  lineID: -1
+  lineID: 144
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -13211,7 +13211,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: Cristine the guest
-  lineID: -1
+  lineID: 169
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
   portraitIcon:
@@ -13637,7 +13637,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Sure Mrs Carole. Let me find the right room for you.
-  lineID: -1
+  lineID: 132
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -13758,7 +13758,7 @@ MonoBehaviour:
   talkingAnimation: 0
   separateTalkingLayer: 0
   speechLabel: Carole the guest
-  lineID: -1
+  lineID: 181
   displayLineID: -1
   speechColor: {r: 1, g: 1, b: 1, a: 1}
   portraitIcon:
@@ -14091,7 +14091,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: Cannot accept the reception key. This key belongs to John
-  lineID: -1
+  lineID: 137
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -14659,7 +14659,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: i dont need the lounge key
-  lineID: -1
+  lineID: 153
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -14812,7 +14812,7 @@ MonoBehaviour:
   speaker: {fileID: 670027087}
   messageText: JOHN. we have girls night out tonight. We are four. we need room with
     four beds please.
-  lineID: -1
+  lineID: 141
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -14872,7 +14872,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: No this room doesn't suit me. I need another one.
-  lineID: -1
+  lineID: 116
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -15242,7 +15242,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: Do you have any better option? This is not what i am looking for.
-  lineID: -1
+  lineID: 110
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -15384,7 +15384,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: I believe is best if you keep this key
-  lineID: -1
+  lineID: 129
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -15496,7 +15496,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Key room 301
-  lineID: -1
+  lineID: 182
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -15684,7 +15684,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: 'No, i don''t like this room. Sorry '
-  lineID: -1
+  lineID: 124
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -15970,7 +15970,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: 'John this room is small for us. Sorry '
-  lineID: -1
+  lineID: 120
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -16142,7 +16142,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1452996805}
   messageText: Great stuff. I'll better go to room to start working. See you  John
-  lineID: -1
+  lineID: 151
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -16202,7 +16202,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1553653922}
   messageText: No suitable for us. We want a double bed , suite
-  lineID: -1
+  lineID: 114
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -16277,7 +16277,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Carole the guest
-  lineID: -1
+  lineID: 181
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -16692,7 +16692,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: It is nice to have the suite room but not this time
-  lineID: -1
+  lineID: 118
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -16752,7 +16752,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 447262781}
   messageText: Great that is the perfect room type for our stay. Cheers John
-  lineID: -1
+  lineID: 107
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -16967,7 +16967,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 871580962}
   messageText: Please help me check in the guest depending their needs.
-  lineID: -1
+  lineID: 149
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -17258,7 +17258,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 0}
   messageText: Hello Mrs Carole. Welcome to Hotelier. How may i help?
-  lineID: -1
+  lineID: 130
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -17394,7 +17394,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: 
-  lineID: -1
+  lineID: 184
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -17557,7 +17557,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 670027087}
   messageText: Please give us another room.
-  lineID: -1
+  lineID: 158
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -17617,7 +17617,7 @@ MonoBehaviour:
   playerID: -1
   speaker: {fileID: 1605438805}
   messageText: Thank you. That is the room we need
-  lineID: -1
+  lineID: 108
   multiLineIDs: 
   isBackground: 0
   noAnimation: 0
@@ -17873,7 +17873,7 @@ MonoBehaviour:
   interactionSource: 0
   options:
   - label: Hello Mr David. What can i do for you today?
-    lineID: -1
+    lineID: 111
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -17902,7 +17902,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: Well bye
-    lineID: -1
+    lineID: 186
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -18389,7 +18389,7 @@ MonoBehaviour:
   interactionSource: 0
   options:
   - label: Dearest Barbara. Welcome back. How can i help?
-    lineID: -1
+    lineID: 140
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -18418,7 +18418,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: See you next time.
-    lineID: -1
+    lineID: 188
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -18877,7 +18877,7 @@ MonoBehaviour:
   interactionSource: 0
   options:
   - label: Dr James welcome to hotelier. Do you need a room?
-    lineID: -1
+    lineID: 189
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -18906,7 +18906,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: See you soon
-    lineID: -1
+    lineID: 190
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -19391,7 +19391,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Door
-  lineID: -1
+  lineID: 191
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -20942,7 +20942,7 @@ MonoBehaviour:
   interactionSource: 0
   options:
   - label: Hello Mrs Carole welcome to Hotelier, how can i help.
-    lineID: -1
+    lineID: 192
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -20971,7 +20971,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: well, bye
-    lineID: -1
+    lineID: 193
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -21554,7 +21554,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Floor Plan
-  lineID: -1
+  lineID: 194
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -22598,7 +22598,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Key room 103
-  lineID: -1
+  lineID: 195
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
@@ -22760,7 +22760,7 @@ MonoBehaviour:
   interactionSource: 0
   options:
   - label: Hello Miss. Is there anything i can help yoou with today?
-    lineID: -1
+    lineID: 196
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -22789,7 +22789,7 @@ MonoBehaviour:
     customScriptObject: {fileID: 0}
     customScriptFunction: 
   - label: Well, goodbye
-    lineID: -1
+    lineID: 197
     icon: {fileID: 0}
     cursorIcon:
       texture: {fileID: 0}
@@ -23101,7 +23101,7 @@ MonoBehaviour:
   _limitToCamera: {fileID: 0}
   interactiveBoundary: {fileID: 0}
   hotspotName: Mr John
-  lineID: -1
+  lineID: 175
   highlight: {fileID: 0}
   walkToMarker: {fileID: 0}
   centrePoint: {fileID: 0}
